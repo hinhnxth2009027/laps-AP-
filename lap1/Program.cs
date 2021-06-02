@@ -13,6 +13,7 @@ internal class Program
 {
     private static Exercises _exercises = new Exercises();
     private static Examples _examples = new Examples();
+
     public static void Main(string[] args)
     {
         while (true)
@@ -27,6 +28,7 @@ internal class Program
             Console.WriteLine(".7 Show Exercise 2");
             Console.WriteLine(".8 Show Exercise 3");
             Console.WriteLine(".9 Show Exercise 4");
+            Console.WriteLine(".0 Show Exercise 5");
             Console.WriteLine("====================/n");
             var choice = int.Parse(Console.ReadLine());
             switch (choice)
@@ -58,8 +60,13 @@ internal class Program
                 case 9:
                     _exercises.ShowExercise4();
                     break;
+                case 0:
+                    _exercises.ShowExercise5();
+                    break;
             }
         }
+
+
+        
     }
-    
 }

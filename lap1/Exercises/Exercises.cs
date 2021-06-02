@@ -108,5 +108,19 @@ namespace lap1.Exercises
                 Console.WriteLine($"{number} x {i} = {number * i}");
             }
         }
+        public void ShowExercise5()
+        {
+            Console.WriteLine("EXERCISE 5");
+            for (var i = 1; i <= 20; i++)
+            {
+                long result = 1;
+                for (var j = i; j >= 1; j--)
+                {
+                    result = j * result;
+                }
+
+                Console.WriteLine($"giai thua cua {i} la {result}");
+            }
+        }
     }
 }
