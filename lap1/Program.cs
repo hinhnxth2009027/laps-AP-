@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Runtime.InteropServices;
-using System.Text;
 using lap1.Examples;
 using lap1.Exercises;
 
