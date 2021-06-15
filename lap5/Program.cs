@@ -10,7 +10,7 @@ namespace lap5
         public static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-
+//Exercise2
             Console.WriteLine("vui lòng nhập tên");
             var name = Console.ReadLine();
             Console.WriteLine("vui lòng nhập salary");
@@ -23,7 +23,6 @@ namespace lap5
                 Salary = salary,
                 Bonus = bonus
             };
-
             try
             {
                 CheckAmount(seniorLecture);
@@ -33,10 +32,7 @@ namespace lap5
                 Console.WriteLine(e);
                 throw;
             }
-
         }
-
-
         public static void CheckAmount(SeniorLecture seniorLecture)
         {
             if (seniorLecture.Salary < 60000)
@@ -53,8 +49,9 @@ namespace lap5
             }
 
         }
-
-
+ //Exercise2
+ 
+ //Exercise1
         public static void ShowMenu()
         {
             while (true)
@@ -90,26 +87,15 @@ namespace lap5
                 }
             }
         }
-
-
         public string getName()
         {
             var name = Console.ReadLine();
             return name;
         }
+//Exercise1
         
     }
-    
-    
-    
-
-
-        
-    
-    
 }
-
-
 //ex 1
 namespace Customer
 {
@@ -141,5 +127,5 @@ namespace Order
     }
     
 }
-//ex 2
+//ex 1
 
