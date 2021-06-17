@@ -1,0 +1,6 @@
+C:\Users\5470\RiderProjects\laps\lap5Ex2\bin\Debug\lap5Ex2.exe
+C:\Users\5470\RiderProjects\laps\lap5Ex2\bin\Debug\lap5Ex2.pdb
+C:\Users\5470\RiderProjects\laps\lap5Ex2\obj\Debug\lap5Ex2.csprojAssemblyReference.cache
+C:\Users\5470\RiderProjects\laps\lap5Ex2\obj\Debug\lap5Ex2.csproj.CoreCompileInputs.cache
+C:\Users\5470\RiderProjects\laps\lap5Ex2\obj\Debug\lap5Ex2.exe
+C:\Users\5470\RiderProjects\laps\lap5Ex2\obj\Debug\lap5Ex2.pdb

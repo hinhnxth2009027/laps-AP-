@@ -47,7 +47,6 @@ namespace lap5
             {
                 Console.WriteLine("Okie");
             }
-
         }
  //Exercise2
  
