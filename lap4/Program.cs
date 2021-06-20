@@ -30,8 +30,7 @@ namespace lap4
             Console.WriteLine(staff.ToString());
             Console.WriteLine($"thuong cua {staff.Name} là : {staff.CalculateBonus()}");
             Console.WriteLine($"tuan nghi cua {staff.Name} là : {staff.CalculateVacation()}");
-
-
+            
             var faculty = new Faculty()
             {
                 Name = "hoang dac phuong",
