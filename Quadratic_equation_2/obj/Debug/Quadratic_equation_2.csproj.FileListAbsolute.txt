@@ -1,0 +1,6 @@
+C:\Users\5470\RiderProjects\laps\Quadratic_equation_2\bin\Debug\Quadratic_equation_2.exe
+C:\Users\5470\RiderProjects\laps\Quadratic_equation_2\bin\Debug\Quadratic_equation_2.pdb
+C:\Users\5470\RiderProjects\laps\Quadratic_equation_2\obj\Debug\Quadratic_equation_2.csprojAssemblyReference.cache
+C:\Users\5470\RiderProjects\laps\Quadratic_equation_2\obj\Debug\Quadratic_equation_2.csproj.CoreCompileInputs.cache
+C:\Users\5470\RiderProjects\laps\Quadratic_equation_2\obj\Debug\Quadratic_equation_2.exe
+C:\Users\5470\RiderProjects\laps\Quadratic_equation_2\obj\Debug\Quadratic_equation_2.pdb
