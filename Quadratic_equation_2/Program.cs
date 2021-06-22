@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Text;
-
 namespace Quadratic_equation_2
 {
     internal class Program
     {
         public delegate void Equation(int a, int b, int c);
-
-
         public static void SolvetTheEquation(int a, int b, int c)
         {
             float delta = b * b - 4 * a * c;
@@ -26,12 +23,9 @@ namespace Quadratic_equation_2
                 Console.WriteLine("phương trình vô nghiệm");
             }
         }
-
-
         public static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.Unicode;
-
             while (true)
             {
                 Console.Write("vui lòng nhập số thứ 1 :");

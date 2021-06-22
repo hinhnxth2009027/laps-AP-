@@ -1,0 +1,6 @@
+C:\Users\5470\RiderProjects\laps\lap7\bin\Debug\lap7.exe
+C:\Users\5470\RiderProjects\laps\lap7\bin\Debug\lap7.pdb
+C:\Users\5470\RiderProjects\laps\lap7\obj\Debug\lap7.csprojAssemblyReference.cache
+C:\Users\5470\RiderProjects\laps\lap7\obj\Debug\lap7.csproj.CoreCompileInputs.cache
+C:\Users\5470\RiderProjects\laps\lap7\obj\Debug\lap7.exe
+C:\Users\5470\RiderProjects\laps\lap7\obj\Debug\lap7.pdb
